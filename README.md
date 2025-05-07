@@ -8,6 +8,15 @@
         Hello, I'm <b>Florian</b>, also known as <b>FallenBreak</b>, a passionate software developer. <br>
         Currently training as an IT specialist in application development, I aim to become a full-stack developer. <br>
     </p>
+
+<p align="center">
+  <a href="https://webtivity24.de">
+    <img src="https://img.shields.io/badge/Webtivity24-Developer-blue?style=for-the-badge&logo=web&logoColor=white" alt="Webtivity24" />
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=fallenbreak&style=for-the-badge&color=blue" alt="Profilaufrufe" />
+  </a>
+</p>
 </div>
 
 ---
